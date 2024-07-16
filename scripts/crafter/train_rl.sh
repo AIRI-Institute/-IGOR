@@ -1,0 +1,1 @@
+python3 igor/agent_traning/main.py

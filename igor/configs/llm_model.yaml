@@ -1,0 +1,38 @@
+experiment:
+
+    environment_setting:
+        project: 'crafter_subtasks'
+        namespace: 'crafter'
+        exp_name: "flan_t5_shuffling"
+
+    experiment_setting:
+        seed: 42
+        epochs: 600
+        learning_rate: 0.0001
+
+    paths:
+        train_data: "./datasets/crafter/train.csv"
+        test_data: "./datasets/crafter/test.csv"
+        model_save_path: "./models/llm_model"
+
+    model_setting:
+        base_model:  "google/flan-t5-base" 
+        use_castom_trainer: 1
+        dataset_entropy_weight: 0.
+        training_args_config:
+            
+            per_device_train_batch_size: 16
+            gradient_accumulation_steps: 16
+            per_device_eval_batch_size: 8
+            evaluation_strategy: "steps"
+            save_total_limit: 6
+            load_best_model_at_end: True
+            logging_steps: 500
+            fp16: False
+            report_to: "wandb"
+            label_smoothing_factor: 0.
+        
+        
+        
+        
+        

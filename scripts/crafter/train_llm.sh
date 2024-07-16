@@ -1,0 +1,1 @@
+python3 igor/llm_tuning/train_refactored.py --paths__train_data "./datasets/crafter/train.csv" --paths__test_data "./datasets/crafter/test.csv"

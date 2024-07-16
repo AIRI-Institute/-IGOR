@@ -1,0 +1,252 @@
+[2024-07-01 10:19:27,358][00251] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:19:27,476][00250] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:19:27,476][00250] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:19:27,497][00250] Num visible devices: 1
+[2024-07-01 10:19:27,962][00250] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:19:27,963][00250] RunningMeanStd input shape: (32,)
+[2024-07-01 10:19:27,963][00250] RunningMeanStd input shape: (1,)
+[2024-07-01 10:19:27,974][00250] Num input channels: 64
+[2024-07-01 10:19:27,981][00250] Convolutional layer output size: 256
+[2024-07-01 10:19:40,253][00251] Stopping RolloutWorker_w0...
+[2024-07-01 10:19:40,253][00251] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:19:40,289][00250] Weights refcount: 2 0
+[2024-07-01 10:19:40,291][00250] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:19:40,291][00250] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:19:46,788][00326] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:19:46,788][00326] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:19:46,812][00326] Num visible devices: 1
+[2024-07-01 10:19:46,884][00327] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:19:47,287][00326] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:19:47,287][00326] RunningMeanStd input shape: (32,)
+[2024-07-01 10:19:47,288][00326] RunningMeanStd input shape: (1,)
+[2024-07-01 10:19:47,303][00326] Num input channels: 64
+[2024-07-01 10:19:47,313][00326] Convolutional layer output size: 256
+[2024-07-01 10:19:50,600][00327] Stopping RolloutWorker_w0...
+[2024-07-01 10:19:50,601][00327] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:19:50,632][00326] Weights refcount: 2 0
+[2024-07-01 10:19:50,634][00326] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:19:50,634][00326] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:19:56,754][00402] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:19:56,838][00403] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:19:56,838][00403] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:19:56,867][00403] Num visible devices: 1
+[2024-07-01 10:19:57,301][00403] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:19:57,302][00403] RunningMeanStd input shape: (32,)
+[2024-07-01 10:19:57,302][00403] RunningMeanStd input shape: (1,)
+[2024-07-01 10:19:57,313][00403] Num input channels: 64
+[2024-07-01 10:19:57,320][00403] Convolutional layer output size: 256
+[2024-07-01 10:20:01,605][00402] Stopping RolloutWorker_w0...
+[2024-07-01 10:20:01,605][00402] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:20:01,629][00403] Weights refcount: 2 0
+[2024-07-01 10:20:01,631][00403] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:20:01,631][00403] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:20:08,106][00478] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:20:08,106][00478] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:20:08,127][00478] Num visible devices: 1
+[2024-07-01 10:20:08,265][00479] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:20:08,529][00478] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:20:08,529][00478] RunningMeanStd input shape: (32,)
+[2024-07-01 10:20:08,530][00478] RunningMeanStd input shape: (1,)
+[2024-07-01 10:20:08,541][00478] Num input channels: 64
+[2024-07-01 10:20:08,547][00478] Convolutional layer output size: 256
+[2024-07-01 10:20:12,922][00479] Stopping RolloutWorker_w0...
+[2024-07-01 10:20:12,922][00479] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:20:12,973][00478] Weights refcount: 2 0
+[2024-07-01 10:20:12,975][00478] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:20:12,975][00478] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:20:19,657][00555] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:20:19,657][00555] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:20:19,679][00555] Num visible devices: 1
+[2024-07-01 10:20:19,754][00554] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:20:20,146][00555] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:20:20,147][00555] RunningMeanStd input shape: (32,)
+[2024-07-01 10:20:20,147][00555] RunningMeanStd input shape: (1,)
+[2024-07-01 10:20:20,158][00555] Num input channels: 64
+[2024-07-01 10:20:20,165][00555] Convolutional layer output size: 256
+[2024-07-01 10:20:25,477][00554] Stopping RolloutWorker_w0...
+[2024-07-01 10:20:25,477][00554] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:20:25,501][00555] Weights refcount: 2 0
+[2024-07-01 10:20:25,503][00555] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:20:25,503][00555] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:20:31,625][00631] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:20:31,625][00631] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:20:31,649][00631] Num visible devices: 1
+[2024-07-01 10:20:31,718][00630] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:20:32,030][00631] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:20:32,031][00631] RunningMeanStd input shape: (32,)
+[2024-07-01 10:20:32,031][00631] RunningMeanStd input shape: (1,)
+[2024-07-01 10:20:32,044][00631] Num input channels: 64
+[2024-07-01 10:20:32,051][00631] Convolutional layer output size: 256
+[2024-07-01 10:20:34,499][00630] Stopping RolloutWorker_w0...
+[2024-07-01 10:20:34,500][00630] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:20:34,527][00631] Weights refcount: 2 0
+[2024-07-01 10:20:34,528][00631] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:20:34,528][00631] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:20:40,823][00707] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:20:40,844][00706] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:20:40,844][00706] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:20:40,868][00706] Num visible devices: 1
+[2024-07-01 10:20:41,228][00706] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:20:41,229][00706] RunningMeanStd input shape: (32,)
+[2024-07-01 10:20:41,229][00706] RunningMeanStd input shape: (1,)
+[2024-07-01 10:20:41,240][00706] Num input channels: 64
+[2024-07-01 10:20:41,251][00706] Convolutional layer output size: 256
+[2024-07-01 10:20:45,619][00707] Stopping RolloutWorker_w0...
+[2024-07-01 10:20:45,619][00707] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:20:45,664][00706] Weights refcount: 2 0
+[2024-07-01 10:20:45,665][00706] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:20:45,666][00706] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:20:52,421][00783] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:20:52,421][00783] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:20:52,441][00782] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:20:52,450][00783] Num visible devices: 1
+[2024-07-01 10:20:52,934][00783] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:20:52,935][00783] RunningMeanStd input shape: (32,)
+[2024-07-01 10:20:52,935][00783] RunningMeanStd input shape: (1,)
+[2024-07-01 10:20:52,946][00783] Num input channels: 64
+[2024-07-01 10:20:52,953][00783] Convolutional layer output size: 256
+[2024-07-01 10:20:57,142][00782] Stopping RolloutWorker_w0...
+[2024-07-01 10:20:57,143][00782] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:20:57,179][00783] Weights refcount: 2 0
+[2024-07-01 10:20:57,181][00783] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:20:57,182][00783] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:21:03,329][00858] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:21:03,376][00859] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:21:03,376][00859] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:21:03,398][00859] Num visible devices: 1
+[2024-07-01 10:21:03,791][00859] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:21:03,792][00859] RunningMeanStd input shape: (32,)
+[2024-07-01 10:21:03,792][00859] RunningMeanStd input shape: (1,)
+[2024-07-01 10:21:03,804][00859] Num input channels: 64
+[2024-07-01 10:21:03,811][00859] Convolutional layer output size: 256
+[2024-07-01 10:21:08,213][00858] Stopping RolloutWorker_w0...
+[2024-07-01 10:21:08,214][00858] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:21:08,236][00859] Weights refcount: 2 0
+[2024-07-01 10:21:08,237][00859] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:21:08,238][00859] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:21:14,942][00935] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:21:14,942][00935] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:21:14,968][00935] Num visible devices: 1
+[2024-07-01 10:21:14,986][00934] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:21:15,352][00935] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:21:15,353][00935] RunningMeanStd input shape: (32,)
+[2024-07-01 10:21:15,353][00935] RunningMeanStd input shape: (1,)
+[2024-07-01 10:21:15,364][00935] Num input channels: 64
+[2024-07-01 10:21:15,371][00935] Convolutional layer output size: 256
+[2024-07-01 10:21:20,239][00934] Stopping RolloutWorker_w0...
+[2024-07-01 10:21:20,239][00934] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:21:20,272][00935] Weights refcount: 2 0
+[2024-07-01 10:21:20,274][00935] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:21:20,275][00935] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:21:26,368][01010] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:21:26,468][01011] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:21:26,468][01011] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:21:26,494][01011] Num visible devices: 1
+[2024-07-01 10:21:26,665][01010] Stopping RolloutWorker_w0...
+[2024-07-01 10:21:26,665][01010] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:21:26,865][01011] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:21:26,865][01011] RunningMeanStd input shape: (32,)
+[2024-07-01 10:21:26,866][01011] RunningMeanStd input shape: (1,)
+[2024-07-01 10:21:26,877][01011] Num input channels: 64
+[2024-07-01 10:21:26,884][01011] Convolutional layer output size: 256
+[2024-07-01 10:21:27,069][01011] Weights refcount: 2 0
+[2024-07-01 10:21:27,071][01011] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:21:27,071][01011] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:23:06,733][01129] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:23:06,817][01130] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:23:06,818][01130] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:23:06,839][01130] Num visible devices: 1
+[2024-07-01 10:23:07,198][01130] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:23:07,198][01130] RunningMeanStd input shape: (32,)
+[2024-07-01 10:23:07,199][01130] RunningMeanStd input shape: (1,)
+[2024-07-01 10:23:07,210][01130] Num input channels: 64
+[2024-07-01 10:23:07,216][01130] Convolutional layer output size: 256
+[2024-07-01 10:23:11,555][01129] Stopping RolloutWorker_w0...
+[2024-07-01 10:23:11,555][01129] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:23:11,582][01130] Weights refcount: 2 0
+[2024-07-01 10:23:11,584][01130] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:23:11,584][01130] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:23:17,799][01206] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:23:17,808][01205] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:23:17,809][01205] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:23:17,831][01205] Num visible devices: 1
+[2024-07-01 10:23:18,210][01205] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:23:18,211][01205] RunningMeanStd input shape: (32,)
+[2024-07-01 10:23:18,211][01205] RunningMeanStd input shape: (1,)
+[2024-07-01 10:23:18,222][01205] Num input channels: 64
+[2024-07-01 10:23:18,229][01205] Convolutional layer output size: 256
+[2024-07-01 10:23:20,545][01206] Stopping RolloutWorker_w0...
+[2024-07-01 10:23:20,546][01206] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:23:20,573][01205] Weights refcount: 2 0
+[2024-07-01 10:23:20,575][01205] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:23:20,575][01205] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:23:26,614][01281] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:23:26,665][01282] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:23:26,666][01282] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:23:26,688][01282] Num visible devices: 1
+[2024-07-01 10:23:27,083][01282] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:23:27,083][01282] RunningMeanStd input shape: (32,)
+[2024-07-01 10:23:27,084][01282] RunningMeanStd input shape: (1,)
+[2024-07-01 10:23:27,097][01282] Num input channels: 64
+[2024-07-01 10:23:27,103][01282] Convolutional layer output size: 256
+[2024-07-01 10:23:30,479][01281] Stopping RolloutWorker_w0...
+[2024-07-01 10:23:30,479][01281] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:23:30,504][01282] Weights refcount: 2 0
+[2024-07-01 10:23:30,506][01282] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:23:30,506][01282] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:23:36,822][01357] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:23:36,965][01358] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:23:36,965][01358] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:23:36,988][01358] Num visible devices: 1
+[2024-07-01 10:23:37,356][01358] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:23:37,357][01358] RunningMeanStd input shape: (32,)
+[2024-07-01 10:23:37,357][01358] RunningMeanStd input shape: (1,)
+[2024-07-01 10:23:37,364][01357] Stopping RolloutWorker_w0...
+[2024-07-01 10:23:37,364][01357] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:23:37,368][01358] Num input channels: 64
+[2024-07-01 10:23:37,375][01358] Convolutional layer output size: 256
+[2024-07-01 10:23:37,557][01358] Weights refcount: 2 0
+[2024-07-01 10:23:37,559][01358] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:23:37,559][01358] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:25:12,761][01527] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:25:12,761][01527] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:25:12,761][01528] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:25:12,794][01527] Num visible devices: 1
+[2024-07-01 10:25:13,279][01527] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:25:13,280][01527] RunningMeanStd input shape: (32,)
+[2024-07-01 10:25:13,280][01527] RunningMeanStd input shape: (1,)
+[2024-07-01 10:25:13,292][01527] Num input channels: 64
+[2024-07-01 10:25:13,300][01527] Convolutional layer output size: 256
+[2024-07-01 10:25:15,557][01528] Stopping RolloutWorker_w0...
+[2024-07-01 10:25:15,557][01528] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:25:15,583][01527] Weights refcount: 2 0
+[2024-07-01 10:25:15,584][01527] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:25:15,585][01527] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:25:22,555][01604] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:25:22,606][01603] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:25:22,606][01603] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:25:22,628][01603] Num visible devices: 1
+[2024-07-01 10:25:23,073][01603] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:25:23,074][01603] RunningMeanStd input shape: (32,)
+[2024-07-01 10:25:23,074][01603] RunningMeanStd input shape: (1,)
+[2024-07-01 10:25:23,085][01603] Num input channels: 64
+[2024-07-01 10:25:23,093][01603] Convolutional layer output size: 256
+[2024-07-01 10:25:25,328][01604] Stopping RolloutWorker_w0...
+[2024-07-01 10:25:25,328][01604] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:25:25,356][01603] Weights refcount: 2 0
+[2024-07-01 10:25:25,357][01603] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:25:25,357][01603] Loop inference_proc0-0_evt_loop terminating...
+[2024-07-01 10:25:32,211][01679] Worker 0 uses CPU cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[2024-07-01 10:25:32,242][01680] Using GPUs [0] for process 0 (actually maps to GPUs [0])
+[2024-07-01 10:25:32,243][01680] Set environment var CUDA_VISIBLE_DEVICES to '0' (GPU indices [0]) for inference process 0
+[2024-07-01 10:25:32,267][01680] Num visible devices: 1
+[2024-07-01 10:25:32,734][01680] RunningMeanStd input shape: (64, 64, 3)
+[2024-07-01 10:25:32,734][01680] RunningMeanStd input shape: (32,)
+[2024-07-01 10:25:32,735][01680] RunningMeanStd input shape: (1,)
+[2024-07-01 10:25:32,746][01680] Num input channels: 64
+[2024-07-01 10:25:32,753][01680] Convolutional layer output size: 256
+[2024-07-01 10:25:35,096][01679] Stopping RolloutWorker_w0...
+[2024-07-01 10:25:35,096][01679] Loop rollout_proc0_evt_loop terminating...
+[2024-07-01 10:25:35,129][01680] Weights refcount: 2 0
+[2024-07-01 10:25:35,131][01680] Stopping InferenceWorker_p0-w0...
+[2024-07-01 10:25:35,131][01680] Loop inference_proc0-0_evt_loop terminating...

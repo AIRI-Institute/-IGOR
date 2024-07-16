@@ -1,0 +1,4 @@
+crafter==1.8.3
+torch<2.0,>=1.9
+sample-factory==2.1.1
+tabulate

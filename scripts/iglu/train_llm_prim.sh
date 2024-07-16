@@ -1,0 +1,1 @@
+python3 igor/llm_tuning/train_refactored.py --paths__train_data "./datasets/iglu/prims.csv" --paths__test_data "./datasets/iglu/prims.csv" --environment_setting__namespace "iglu_prim" 

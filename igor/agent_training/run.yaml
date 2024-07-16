@@ -1,0 +1,20 @@
+container:
+  image: "crafter-ppo2:latest"
+  command: python3 main.py --experiment finetune --restart_behavior resume
+#  command: python3 main.py --num_workers 50
+
+  tty: True
+  environment:
+    - "OMP_NUM_THREADS=1"
+    - "MKL_NUM_THREADS=1"
+    - "OPENBLAS_NUM_THREADS=1"
+    - "NVIDIA_VISIBLE_DEVICES=0"
+code:
+  volumes: [ ]
+  folder: "."
+  forward_environment_keys: [ "WANDB_API_KEY" ]
+  ignore: [ ".git" ]
+host_config:
+  runtime: nvidia
+  shm_size: '8g'
+  mem_limit: '64g'

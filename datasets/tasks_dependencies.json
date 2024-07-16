@@ -1,0 +1,2048 @@
+[
+    {
+        "task": "collect_coal",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "collect_diamond",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 2
+            },
+            {
+                "achievement": "place_table",
+                "count": 2
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 2
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 1
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 1
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "collect_drink",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "collect_iron",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "collect_sapling",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "collect_stone",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "collect_wood",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "defeat_skeleton",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "defeat_zombie",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "eat_cow",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "eat_plant",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 1
+            },
+            {
+                "achievement": "place_plant",
+                "count": 1
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "make_iron_pickaxe",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 2
+            },
+            {
+                "achievement": "place_table",
+                "count": 2
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 2
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 1
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 1
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "make_iron_sword",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 3
+            },
+            {
+                "achievement": "place_table",
+                "count": 3
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 3
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 2
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 1
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 1
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 1
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "make_stone_pickaxe",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "make_stone_sword",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "make_wood_pickaxe",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "make_wood_sword",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "place_furnace",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "place_plant",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 1
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "place_stone",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 1
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 1
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 1
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "place_table",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 1
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "task": "wake_up",
+        "dependencies": [
+            {
+                "achievement": "collect_wood",
+                "count": 0
+            },
+            {
+                "achievement": "place_table",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_stone",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "place_stone",
+                "count": 0
+            },
+            {
+                "achievement": "collect_coal",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_pickaxe",
+                "count": 0
+            },
+            {
+                "achievement": "collect_iron",
+                "count": 0
+            },
+            {
+                "achievement": "make_iron_sword",
+                "count": 0
+            },
+            {
+                "achievement": "collect_diamond",
+                "count": 0
+            },
+            {
+                "achievement": "place_furnace",
+                "count": 0
+            },
+            {
+                "achievement": "collect_drink",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_zombie",
+                "count": 0
+            },
+            {
+                "achievement": "defeat_skeleton",
+                "count": 0
+            },
+            {
+                "achievement": "make_wood_sword",
+                "count": 0
+            },
+            {
+                "achievement": "eat_cow",
+                "count": 0
+            },
+            {
+                "achievement": "collect_sapling",
+                "count": 0
+            },
+            {
+                "achievement": "place_plant",
+                "count": 0
+            },
+            {
+                "achievement": "eat_plant",
+                "count": 0
+            },
+            {
+                "achievement": "wake_up",
+                "count": 0
+            },
+            {
+                "achievement": "make_stone_sword",
+                "count": 0
+            }
+        ]
+    }
+]

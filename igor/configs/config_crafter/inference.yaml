@@ -1,0 +1,7 @@
+base_model_path: "./models/llm_model/flan_t5_shuffling/"
+base_result_path: "./igor_results/"
+data_path: "./datasets/crafter/test.csv"
+model_names:
+  - "_0"
+num_runs: 5
+N_evals: 1
