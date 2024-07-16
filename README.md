@@ -1,5 +1,22 @@
 # IGOR – Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments
 
+In this study, we address the challenge of enabling an artificial intelligence agent to execute complex language instructions within virtual environments. Our framework assumes that these instructions involve intricate linguistic structures and multiple interdependent tasks that must be navigated successfully to achieve the desired outcomes. To manage these complexities effectively, we propose a hierarchical framework that combines the deep language comprehension of large language models (LLMs) with the adaptive action-execution capabilities of reinforcement learning (RL) agents. The language module (based on LLM) translates the language instruction into a high-level action plan, which is then executed by a pre-trained RL agent. We have demonstrated the effectiveness of our approach in two different environments: IGLU, where agents are instructed to build structures, and Crafter, where agents perform tasks and interact with objects in the surrounding environment according to language commands.
+
+**Paper:** [Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments](https://arxiv.org/abs/2407.09287)
+
+**Citation:**
+
+```bibtex
+@article{volovikova2024instruction,
+      title={Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments}, 
+      author={Zoya Volovikova and Alexey Skrynnik and Petr Kuderov and Aleksandr I. Panov},
+      year={2024},
+      eprint={2407.09287},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.09287}, 
+}
+```
 
 ## Installation
 
@@ -107,18 +124,3 @@ sh scripts/crafter/train_rl.sh
 ```
 
 
-**Paper:** [Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments](https://arxiv.org/abs/2407.09287)
-
-**Citation:**
-
-```bibtex
-@article{volovikova2024instruction,
-      title={Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments}, 
-      author={Zoya Volovikova and Alexey Skrynnik and Petr Kuderov and Aleksandr I. Panov},
-      year={2024},
-      eprint={2407.09287},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2407.09287}, 
-}
-```
